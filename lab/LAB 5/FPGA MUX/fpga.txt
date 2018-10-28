@@ -1,0 +1,7 @@
+NET "i0" LOC = P183;
+NET "i1" LOC = P182;
+NET "i2" LOC = P181;
+NET "i3" LOC = P180;
+NET "A" LOC = P178;
+NET "B" LOC = P176;
+NET "out" LOC = P51;
