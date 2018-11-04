@@ -1,0 +1,12 @@
+NET "bin[3]" LOC = P183;
+NET "bin[2]" LOC = P182;
+NET "bin[1]" LOC = P181;
+NET "bin[0]" LOC = P180;
+NET "bin_out[3]" LOC = P46;
+NET "bin_out[2]" LOC = P48;
+NET "bin_out[1]" LOC = P50;
+NET "bin_out[0]" LOC = P51;
+NET "G_out[3]" LOC = P61;
+NET "G_out[2]" LOC = P62;
+NET "G_out[1]" LOC = P63;
+NET "G_out[0]" LOC = P64;
