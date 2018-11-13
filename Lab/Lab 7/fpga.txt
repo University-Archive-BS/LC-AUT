@@ -1,0 +1,20 @@
+NET "A[3]" LOC = P183;
+NET "A[2]" LOC = P182;
+NET "A[1]" LOC = P181;
+NET "A[0]" LOC = P180;
+
+NET "B[3]" LOC = P171;
+NET "B[2]" LOC = P169;
+NET "B[1]" LOC = P168;
+NET "B[0]" LOC = P167;
+
+NET "Sel" LOC = P161;
+                                                                                                                                                                                                                                                "S[3]" LOC = P61;
+NET "S[2]" LOC = P62;
+NET "S[1]" LOC = P63;
+NET "S[0]" LOC = P64;
+
+NET "C4" LOC = P51;
+
+
+
