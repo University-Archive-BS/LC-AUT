@@ -1,0 +1,23 @@
+// 00 when engine is OFF
+// 10 when elevator is going up
+// 11 when elevator is going down
+NET "engine[0]" LOC = P50;
+NET "engine[1]" LOC = P51;
+
+NET "doors[2]" LOC = P42; //first floor door
+NET "doors[1]" LOC = P43; //second floor door
+NET "doors[0]" LOC = P44; //third floor door
+
+//Interior panel
+NET "interior_panel[2]" LOC = P183; //first floor
+NET "interior_panel[1]" LOC = P182; //second floor
+NET "interior_panel[0]" LOC = P181; //third floor
+
+//Exterior Panel
+NET "exterior_panel[2]" LOC = P176; //first floor
+NET "exterior_panel[1]" LOC = P175; //second floor
+NET "exterior_panel[0]" LOC = P172; //third floor
+
+NET "RST" LOC = P161;
+
+NET "FRQ" LOC = P184;

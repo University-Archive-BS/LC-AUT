@@ -1,0 +1,757 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.22.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="88401BC45AA341679601EF7EA49209FD"/>
+<title text="آماده به کار\NS0"/>
+<style key="system.spring-levels"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="60" x="1432" y="1766"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="HkeFrD08Bke9diPx3RwgWg" x="-328.33" y="811.67" text="آماده به کار\NS0"/>
+<topic id="1" parent="0" guid="ygCif4wLpke3uetWfwhTUw" x="624.44" y="604.94" palette="0" colorinfo="-1" text="آماده گرفتن رقم اول یوزرنیم\NS1">
+<style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+</style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+<parent-relation guid="nFWSOtQYekWmFvbxp1z94A">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="163.37" y="34.55"/>
+</path>
+<children>
+<text guid="y8H0pVJpKUmwZ_qpDFyCAw" x="0.00" y="0.00">
+<note>
+ورودی *
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="2" parent="1" guid="i-prvQCfkECdc46dOubZgw" x="1010.06" y="774.61" palette="0" colorinfo="-1" text="آماده گرفتن رقم دوم یوزرنیم\NS2">
+<style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+</style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+<parent-relation guid="9y9H8KYfeUWxZzwv3DQFvw">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+گرفتن رقم اول
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="3" parent="2" guid="doTRClQGa0WlZ5fE5l_3rw" x="1316.28" y="548.48" palette="0" colorinfo="-1" text="آماده گرفتن رقم سوم یوزرنیم\NS3">
+<style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+</style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+<parent-relation guid="RALGp-mJ5keX9D0tavJAYA">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+گرفتن رقم دوم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="4" parent="3" guid="I5U30S9YkU6uXSkV5d15-g" x="1347.10" y="198.53" text="بررسی وجود یوزرنیم\NS4">
+<parent-relation guid="ii4YhJQysUOjqOkFyojjng">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+گرفتن رقم سوم ورودی
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="5" parent="-1" guid="MH1-TylqBkyd7kJcIgGhQQ" x="2023.10" y="682.76" text="آماده دستور بعد از یوزرنیم\NS5"/>
+<topic id="6" parent="5" guid="aygh9bm4eUSbf0G4aXtFyA" x="1691.48" y="892.20" palette="0" colorinfo="-1" text="آماده گرفتن پسورد\NS6">
+<style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+</style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+<parent-relation guid="stIjsmSszUKo2ujiXQNHWg">
+<style target-arrow="filledArrow"/>
+<children>
+<text guid="IRWvcXoNfkuMI6D1t80KRg" x="0.00" y="0.00">
+<note>
+ورودی * و *# برای وارد کردن پسورد
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="7" parent="6" guid="0ZI8gIA_m0SiGuGUREiuaQ" x="2060.73" y="1051.60" palette="0" colorinfo="-1" text="آماده گرفتن رقم دوم\NS7">
+<style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+</style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+<parent-relation guid="zi-qYhsdKk2K8bg3mAiIAw">
+<style target-arrow="filledArrow"/>
+<children>
+<text guid="6Lhc3pJExkqRDut10oFaXQ" x="0.00" y="0.00">
+<note>
+رقم اول
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="8" parent="7" guid="KnXHmdknLkGE5KAEjzTpDQ" x="1671.12" y="1213.45" palette="0" colorinfo="-1" text="آماده گرفتن رقم سوم\NS8">
+<style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+</style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+<parent-relation guid="285SAeuENkGds7QvsazYPA">
+<style target-arrow="filledArrow"/>
+<children>
+<text guid="WTZUZlhCoU-O7ulq0bUdOw" x="0.00" y="-20.00">
+<note>
+رقم سوم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="9" parent="8" guid="123wN60500-ltk5CNkmAIQ" x="2080.92" y="1393.50" palette="0" colorinfo="-1" text="آماده دریافت رقم چهارم\NS9">
+<style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+</style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+<parent-relation guid="m9RGLp8sDkqJpqgZEybGxw">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+رقم سوم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="10" parent="9" guid="vQRbbWiVE06X6FHdcNwv9Q" x="1679.53" y="1589.89" palette="0" colorinfo="-1" text="آماده گرفتن *# برای چک کردن\NS10">
+<style>
+<fillcolor r="255" g="128" b="64"/>
+<strokecolor r="160" g="53" b="0"/>
+</style>
+<fillcolor r="255" g="128" b="64"/>
+<strokecolor r="160" g="53" b="0"/>
+<parent-relation guid="O-TLAe6zbkqplYPPvzoPFw">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+رقم چهارم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="11" parent="-1" guid="8YF7NUuVDU2pW59g7W0N_w" x="1967.07" y="1759.55" text="بررسی درستی رمز ورود\NS11"/>
+<topic id="12" parent="11" guid="LcOcHGyUvUK9suVc30r9aw" x="1205.87" y="1688.43" text="آماده ورودی حرکتی\NS12">
+<parent-relation guid="_6TOesUF-06PWd3yDusYdw">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+درست بودن رمز و ورود به عنوان کاربر
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="13" parent="-1" guid="nRcbLslzTEiM7-ww8L65PQ" x="2515.25" y="1414.91" text="شمارنده++\NS13"/>
+<topic id="14" parent="13" guid="PhMSB7yDaEmW4llcfIOMdQ" x="2526.07" y="758.93" text="بررسی تعداد خطاها\Nو قفل کردن یوزر در صورت لزوم\NS14">
+<parent-relation guid="w7KTOxuGvUCxf7GwyXv2EA">
+<style target-arrow="filledArrow"/>
+</parent-relation>
+</topic>
+<topic id="15" parent="-1" guid="DHDYjdhbfkuOqQ-XyiCd9g" x="1377.55" y="1976.70" text="پنل ادمین\NS15"/>
+<topic id="16" parent="15" guid="gdbwiNjOtkqod37CYS7Opg" x="1372.97" y="2238.49" palette="0" colorinfo="-1" text="آماده گرفتن یوزر\NS16">
+<style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+</style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+<parent-relation guid="S_IE2FfvFUi4dXBorRZgtQ">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+گرفتن *
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="17" parent="16" guid="IwGYbhLX8Uqma5gPvfZ1qQ" x="1522.94" y="2374.39" palette="0" colorinfo="-1" text="آماده دریافت رقم دوم\NS17">
+<style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+</style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+<parent-relation guid="i0NMOkhWg0Olf_nXRQ9bog">
+<style target-arrow="filledArrow"/>
+<children>
+<text guid="cegnR1n_yUuNuTHKhrNI5A" x="0.00" y="0.00">
+<note>
+رقم اول
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="18" parent="17" guid="-0iGdK2RtUy65G36e9Jf6g" x="1388.56" y="2502.83" palette="0" colorinfo="-1" text="آماده دریافت رقم سوم\NS18">
+<style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+</style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+<parent-relation guid="gIUJ8HAXJk272xEK-Cjebg">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+رقم دوم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="19" parent="18" guid="XpQd3vvFw0iPfhuwPf-WKg" x="1600.71" y="2622.50" text="بررسی یوزر وارد شده\NS19">
+<parent-relation guid="VcY7m-ZyvkqfAHAYuQNVtw">
+<children>
+<text x="0.00" y="0.00">
+<note>
+دریافت رقم سوم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="20" parent="-1" guid="aFdQcPj4R0KeFqzXnFQROw" x="1689.67" y="2796.93" palette="0" colorinfo="-1" text="آماده گرفتن کاراکتر * برای \Nگرفتن پسورد ادمین\NS28">
+<style>
+<fillcolor r="255" g="128" b="64"/>
+<strokecolor r="160" g="53" b="0"/>
+</style>
+<fillcolor r="255" g="128" b="64"/>
+<strokecolor r="160" g="53" b="0"/>
+</topic>
+<topic id="21" parent="20" guid="ZU9bf1bTME68MCx5PhG88Q" x="1684.29" y="2948.57" palette="0" colorinfo="-1" text="آماده دریافت رقم اول\NS29">
+<style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+</style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+<parent-relation guid="_wO3TsGhmE6m7u9EnCXQiw">
+<style target-arrow="filledArrow"/>
+<children>
+<text guid="Xi3yBlKHu0u3iqQWjgUfNw" x="0.00" y="0.00">
+<note>
+*
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="22" parent="-1" guid="AkyE-ICbbEGlpuKkd1SOrw" x="1687.93" y="3076.82" palette="0" colorinfo="-1" text="آماده دریافت رقم دوم\NS30">
+<style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+</style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+</topic>
+<topic id="23" parent="22" guid="ePsfCnkA3EOLYO6qHxIOSA" x="1699.42" y="3200.22" palette="0" colorinfo="-1" text="آماده دریافت رقم سوم\NS31">
+<style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+</style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+<parent-relation guid="LtKIJPJTn0CEIbYetvA1UA">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+رقم دوم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="24" parent="23" guid="I95MIU4sYUGLpl95o0ifow" x="1732.08" y="3345.41" palette="0" colorinfo="-1" text="آماده دریافت رقم چهارم\NS32">
+<style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+</style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+<parent-relation guid="eNRNJ34Slk2prlNwtlzxDQ">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+رقم سوم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="25" parent="24" guid="o7Aprr9cl02IFnvBw_hHWw" x="1860.72" y="3448.57" text="آماده دریافت *# برای تایید رمز \NS33">
+<parent-relation guid="hFXi63nPmEWyUiWdmXjjoQ">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+رقم چهارم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="26" parent="25" guid="rksOK2gvrkSbVSIDfRDpGQ" x="2033.46" y="3454.77" text="بررسی رمز وارد شده\NS34">
+<parent-relation guid="JnbciT0U_kqqduw56tso0g">
+<style target-arrow="filledArrow"/>
+<children>
+<text guid="bXa14nU-bkez34biq8L7PQ" x="0.00" y="0.00">
+<note>
+*#
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="27" parent="26" guid="53ScCS-vWEWAOxlZ_eL9Tw" x="2356.46" y="3446.46" text="آماده گرفتن * برای گرفتن یوزر\Nبرای ادمین کردن\NS35">
+<parent-relation guid="oYUg6cSf-0uYnwC1tCcLgA">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+درست بودن پسورد
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="28" parent="-1" guid="Bm6yuP8u202RskHGDJ8uxw" x="2663.59" y="3232.01" palette="0" colorinfo="-1" text="آماده گرفتن رقم اول یوزر\NS36">
+<style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+</style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+</topic>
+<topic id="29" parent="28" guid="JmJMATPBQ0Kl-XGxObL6dw" x="2345.33" y="3034.67" palette="0" colorinfo="-1" text="آماده دریافت رقم دوم\NS37">
+<style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+</style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+<parent-relation guid="qUsczr3hu0mzyeq-WuG4ig">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+رقم اول
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="30" parent="29" guid="xm06EMNKfUWzSYugCpxikQ" x="2631.67" y="2859.67" palette="0" colorinfo="-1" text="آماده دریافت رقم سوم\NS38">
+<style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+</style>
+<fillcolor r="255" g="128" b="128"/>
+<strokecolor r="192" g="0" b="0"/>
+<parent-relation guid="mgmHz2UVhE--CD4o9U-p7w">
+<style target-arrow="filledArrow"/>
+<children>
+<text guid="-XYqGozvP0iefKNKGkfisA" x="0.00" y="0.00">
+<note>
+رقم دوم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="31" parent="30" guid="NdBZiuGCX0CMT0Kvq0D6_Q" x="2338.33" y="2706.00" text="آماده دریافت ## برای \Nبررسی یوزر وارد شده\NS39">
+<parent-relation guid="TRjsksHCd0i4cZYiQepqNw">
+<style target-arrow="filledArrow"/>
+<children>
+<text guid="uR9KYnR27kmWXGPuiWJu4Q" x="0.00" y="0.00">
+<note>
+رقم سوم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="32" parent="31" guid="Swd7UZxPekaC0FuXBrHACg" x="2221.52" y="2493.79" text="بررسی یوزر وارد شده\NS40"/>
+<topic id="33" parent="32" guid="qB3u4UYIpUKtFgmLfJu7tA" x="2166.76" y="2203.24" text="ادمین کردن یوزرنیم وارد شده">
+<parent-relation guid="ILWwsvOCu0CefBBGQ3u8Cw">
+<style target-arrow="filledArrow"/>
+</parent-relation>
+</topic>
+<topic id="34" parent="-1" guid="W9nwXN3w902r-Gchv14KPA" x="1390.25" y="2734.00" palette="0" colorinfo="-1" text="آماده گرفتن کاراکتر مشخص کننده\NS20">
+<style>
+<fillcolor r="255" g="128" b="64"/>
+<strokecolor r="160" g="53" b="0"/>
+</style>
+<fillcolor r="255" g="128" b="64"/>
+<strokecolor r="160" g="53" b="0"/>
+</topic>
+<topic id="35" parent="34" guid="EFO0kF_nnEKZRTQCE_-D2Q" x="1079.51" y="2714.64" text="بررسی وجود یوزر\NS21">
+<parent-relation guid="M4Rl8gGN0EOMAOt5RFsrPA">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="30.67" y="28.18"/>
+</path>
+<children>
+<text guid="fKZM6fb4IkGD4kjd_WXUMA" x="-17.78" y="17.22">
+<note>
+حالتی که *# وارد شده
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="36" parent="35" guid="PCkMrmZUOUe-UY3HUWIEpw" x="836.11" y="2456.10" text="حذف کاربر\NS22">
+<parent-relation guid="LJXUhMNnhkyVa5WYxQXrFA">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="-53.92" y="12.12"/>
+</path>
+<children>
+<text x="0.00" y="0.00">
+<note>
+وجود کاربر
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="37" parent="-1" guid="NtMk1hnBXUi52kNmKBT2VA" x="1234.19" y="3025.78" text="آماده گرفتن پسورد جهت \Nرمزگشایی یا اضافه کردن حساب کاربر\NS23"/>
+<topic id="38" parent="37" guid="3ULP84COYUuIL7xtIurusQ" x="879.28" y="3068.18" palette="0" colorinfo="-1" text="آماده دریافت رقم دوم\NS24">
+<style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+</style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+<parent-relation guid="yJIoe7vBJk-N-LQE0RKt4A">
+<style target-arrow="filledArrow"/>
+<children>
+<text guid="3CDB0rsBgEOCMfEbogO0vw" x="-6.91" y="-1.14">
+<note>
+رقم اول
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="39" parent="38" guid="skSm3z6wN0irzr7YOhi8jg" x="571.19" y="3021.87" palette="0" colorinfo="-1" text="آماده دریافت رقم سوم\NS25">
+<style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+</style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+<parent-relation guid="Qd0SZmgQWU-hjpxyFsOsZA">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="-54.33" y="7.64"/>
+</path>
+<children>
+<text guid="7lRIIjwuL0uiAsy9KRAfZA" x="32.27" y="5.00">
+<note>
+رقم دوم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="40" parent="39" guid="s12C81Ci00-fbwduvIGwQg" x="364.81" y="2839.20" palette="0" colorinfo="-1" text="آماده دریافت رقم چهارم\NS26">
+<style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+</style>
+<fillcolor r="0" g="255" b="255"/>
+<strokecolor r="0" g="129" b="128"/>
+<parent-relation guid="S3hknIeT6EmhLvMqPL7c1A">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="-46.19" y="15.30"/>
+</path>
+<children>
+<text guid="397FUf6VoEuv7qoVQpDebA" x="0.00" y="0.00">
+<note>
+رقم سوم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="41" parent="40" guid="c55vR-vzKk2tlxKkGxvatg" x="324.35" y="2642.62" text="حالت رمزگشایی\Nیا اضافه کردن\NS27">
+<parent-relation guid="WtSuDG3voE-G8tIm40WYXw">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="-17.79" y="20.99"/>
+</path>
+<children>
+<text x="0.00" y="0.00">
+<note>
+رقم چهارم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+</topics>
+<relations>
+<relation guid="HnncCvX030OdP4gFPWeG-Q" source="41" target="15">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="-286.34" y="-115.99"/>
+</path>
+</relation>
+<relation guid="s_bkA_qBH0WsznqU_oD1iw" source="35" target="15">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="-121.87" y="2.66"/>
+</path>
+<children>
+<text guid="knR3E45YoEyK--qJb24NtA" x="3.89" y="1.66">
+<note>
+عدم وجود کاربریا قفل بودن آن
+</note>
+</text>
+</children>
+</relation>
+<relation guid="H8RlMxRABEyrRaGdPRPOMg" source="36" target="15">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="-118.78" y="-4.46"/>
+</path>
+</relation>
+<relation guid="LiOfY3V_RECSSc5Kb54UZw" source="15" target="0">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="-314.20" y="122.95"/>
+</path>
+<children>
+<text guid="rRnHtQqz7UKgA6NFsmfjVw" x="648.10" y="314.05">
+<note>
+اگر ورودی داده نشود
+</note>
+</text>
+</children>
+</relation>
+<relation guid="hTn8c6Ve1ECGl-WhkjvpZA" source="4" target="5">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="54.90" y="25.07"/>
+</path>
+<children>
+<text x="0.00" y="0.00">
+<note>
+تایید وجود یوزرنیم
+</note>
+</text>
+</children>
+</relation>
+<relation guid="xFnPPmLKiEWVyaE0mVpviA" source="4" target="0">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="-322.24" y="127.04"/>
+</path>
+<children>
+<text x="0.00" y="0.00">
+<note>
+عدم وجود یوزر نیم یا قفل بودن آن
+</note>
+</text>
+</children>
+</relation>
+<relation guid="KNSftOl5bkqHRczIYsWtrw" source="5" target="0">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="35.47" y="158.50"/>
+</path>
+<children>
+<text guid="nE2OwuMaOk6zj4ITfiOTIQ" x="0.00" y="0.00">
+<note>
+چیزی غیر از * و *# وارد شود
+</note>
+</text>
+</children>
+</relation>
+<relation guid="_Lx8mPjRgEqqzFCjjfA6eA" source="11" target="15">
+<children>
+<text guid="68Ef2u4CfU6H4dILGhqAgQ" x="0.00" y="0.00">
+<note>
+درست بودن رمزو ورود به عنوان ادمین
+</note>
+</text>
+</children>
+</relation>
+<relation guid="aQxxpvy7AU6sX6ytTV9oiQ" source="11" target="13">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="8.01" y="71.70"/>
+</path>
+<children>
+<text guid="boyh-tTiNUmYNaiS2_CWnA" x="-14.00" y="-16.00">
+<note>
+گرفتن *# و غلط بودن پسورد
+</note>
+</text>
+</children>
+</relation>
+<relation guid="OiJo-k2SukqdmOiLhrpW2w" source="12" target="0">
+<path>
+<custom-point x="-251.63" y="-57.19"/>
+</path>
+<children>
+<text x="0.00" y="0.00">
+<note>
+اگر ورودی داده نشود
+</note>
+</text>
+</children>
+</relation>
+<relation guid="hQMid35mNU2d9TUiHSJfMw" source="10" target="11">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+گرفتن *# آخر
+</note>
+</text>
+</children>
+</relation>
+<relation guid="kbe8sYfUpU-mmaMU9E_KaQ" source="14" target="0">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="166.13" y="-925.30"/>
+</path>
+</relation>
+<relation guid="oC8LYJo_YUabmE5oyiIG-A" source="19" target="20">
+<style target-arrow="filledArrow"/>
+<children>
+<text guid="L4q0fI4I6EmxA2_y1zMBbg" x="-17.86" y="-3.21">
+<note>
+یوزر خود ادمین
+</note>
+</text>
+</children>
+</relation>
+<relation guid="leejPW5ztEyouQwU5SG8PA" source="19" target="34">
+<style target-arrow="filledArrow"/>
+<children>
+<text guid="Vc6zIFxEWEGbO4RKNvoxPw" x="4.44" y="-11.11">
+<note>
+یوزر غیر ادمین
+</note>
+</text>
+</children>
+</relation>
+<relation guid="hle3wFUp20qf8-tfFjPw3g" source="34" target="37">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="86.53" y="25.61"/>
+</path>
+<children>
+<text x="0.00" y="0.00">
+<note>
+حالتی که # وارد شده
+</note>
+</text>
+</children>
+</relation>
+<relation guid="AGkXLrU2NkOV5aVbGQvq8A" source="21" target="22">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+رقم اول
+</note>
+</text>
+</children>
+</relation>
+<relation guid="gPKdLe3Z_k6Smcpj8O7uXA" source="26" target="15">
+<path>
+<custom-point x="321.99" y="96.77"/>
+</path>
+<children>
+<text x="24.13" y="33.88">
+<note>
+غلط بودن پسورد
+</note>
+</text>
+</children>
+</relation>
+<relation guid="0lUiU2oKUUONVSDlYdrbJg" source="27" target="28">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+*
+</note>
+</text>
+</children>
+</relation>
+<relation guid="T9ALy8Ey6UG-pMEpx0G3uw" source="32" target="15">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="-43.82" y="-59.53"/>
+</path>
+<children>
+<text x="0.00" y="0.00">
+<note>
+عدم وجود کاربری با این یوزرنیم
+</note>
+</text>
+</children>
+</relation>
+<relation guid="Qqa2U5ZqCEiY1Ww9JU9uNw" source="33" target="15">
+<style target-arrow="filledArrow"/>
+<path>
+<custom-point x="53.68" y="-4.13"/>
+</path>
+</relation>
+</relations>
+</mindmap>
+</simplemind-mindmaps>

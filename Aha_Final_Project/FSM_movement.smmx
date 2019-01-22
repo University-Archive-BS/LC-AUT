@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.22.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="08EFEA2C98A4A4039A98F76D1EA34FF3"/>
+<title text="طبقه اول\Nدر باز\NS0"/>
+<style key="system.soft-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="100" x="-418" y="696"/>
+<selection guid="19W_JjGeXr87DQr1xRNXBQ" type="node" id="2"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="xbV0mvC3zliKWIfAoYZNwQ" x="853.17" y="740.32" palette="6" colorinfo="6" text="طبقه اول\Nدر باز\NS0"/>
+<topic id="1" parent="0" guid="8nEdtDJGibhC3kXOYj5leg" x="304.28" y="1067.69" palette="4" colorinfo="4" text="حرکت کنار طبقه دوم\Nجهت بالا\NS1">
+<parent-relation guid="GZ86Ff6eOM45hqyMnrazUA">
+<style target-arrow="filledArrow">
+<color r="0" g="0" b="0"/>
+</style>
+<children>
+<text x="0.00" y="0.00">
+<note>
+خالی نبودن صف
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="2" parent="1" guid="19W_JjGeXr87DQr1xRNXBQ" x="-144.91" y="702.81" palette="7" colorinfo="7" text="طبقه سوم\Nدر باز\NS4">
+<parent-relation guid="4UDsTLa0hgo3Q-D8cXaTBg">
+<style target-arrow="filledArrow">
+<color r="191" g="22" b="205"/>
+</style>
+<children>
+<text guid="xTxaZthuSgAwdRgdz6LAWQ" x="0.00" y="0.00">
+<note>
+وجود طبقه سوم در صفاولویت دوم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="3" parent="1" guid="0KNab1-C_Qhreu77KXXOkA" x="296.86" y="731.69" palette="2" colorinfo="2" text="طبقه دوم \Nدر باز\NS2">
+<parent-relation guid="p3s0G7Pmz41qSXYLyAStYQ">
+<style source-arrow="none" target-arrow="filledArrow"/>
+<children>
+<text guid="CDrsWowYT2AIn01dfShc6g" x="0.00" y="0.00">
+<note>
+وجود طبقه دوم در صفاولویت اول
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+<topic id="4" parent="0" guid="uossiJ-dGiENNK-uSo30lw" x="292.63" y="396.10" palette="4" colorinfo="4" text="حرکت کنار طبقه دوم\Nجهت پایین\NS3">
+<parent-relation guid="zUMdFPHgfsJylBx5Us3jrg">
+<style source-arrow="filledArrow" target-arrow="none">
+<color r="56" g="131" b="224"/>
+</style>
+<children>
+<text guid="h2rnswv2NkErEGP184m6ug" x="0.00" y="0.00">
+<note>
+وجود طبقه اول در صفاولویت دوم
+</note>
+</text>
+</children>
+</parent-relation>
+</topic>
+</topics>
+<relations>
+<relation guid="S1OuCzCnonpZ3ZsIDcshbw" source="4" target="3">
+<style source-arrow="none" target-arrow="filledArrow"/>
+<children>
+<text guid="MFpzaHiIkroPNXREUgf0BQ" x="0.00" y="0.00">
+<note>
+وجود طبقه دوم در صفاولویت اول
+</note>
+</text>
+</children>
+</relation>
+<relation guid="oznevUyHhZyghfrmqj1dpA" source="2" target="4">
+<style target-arrow="filledArrow">
+<color r="0" g="0" b="0"/>
+</style>
+<children>
+<text x="0.00" y="0.00">
+<note>
+خالی‌ نبودن صف
+</note>
+</text>
+</children>
+</relation>
+<relation guid="BpovF4DRDEG-CN-KAzdWqw" source="3" target="2" asHierarchy="True">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+جهت رو به بالاوجود طبقه سوم در صف
+</note>
+</text>
+</children>
+</relation>
+<relation guid="arkUHJ6ndE-LUjaxya2rfQ" source="3" target="0">
+<style target-arrow="filledArrow"/>
+<children>
+<text x="0.00" y="0.00">
+<note>
+جهت رو به پایینوجود طبقه اول در صف
+</note>
+</text>
+</children>
+</relation>
+</relations>
+</mindmap>
+</simplemind-mindmaps>
